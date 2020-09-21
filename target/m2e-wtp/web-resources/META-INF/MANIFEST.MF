@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: authorization-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: uxd
+Implementation-Vendor-Id: com.oauth2.example
+Build-Jdk: 1.8.0_252
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/authorization-server
+Created-By: Maven Integration for Eclipse
+
